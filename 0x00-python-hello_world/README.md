@@ -1,1 +1,1 @@
-Just not to be empty
+0x00. Python - Hello, World
